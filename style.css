@@ -1,0 +1,13 @@
+p, h4{
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+}
+.parrafo{
+    color: blue;
+    width: 250px;
+    border: 1px solid black;
+}
+h2 {
+    color: green;
+}
